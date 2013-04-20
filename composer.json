@@ -1,0 +1,13 @@
+{
+	"name":"lightwerk/surf",
+	"type":"typo3-flow-package",
+	"description":"Lightwerk Surf Package",
+	"require":{
+		"typo3\/flow":"*"
+	},
+	"autoload":{
+		"psr-0":{
+			"Lightwerk\\Surf":"Classes"
+		}
+	}
+}
